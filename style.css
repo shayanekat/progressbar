@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background: radial-gradient(#000099,#090125);
+    font-family: sans-serif;
+    color: white;
+}
+
+.prog{
+    font-size: 1rem;
+}
